@@ -22,8 +22,6 @@ tensorflow/examples/android/\.gradle/3\.3/taskArtifacts/
 
 tensorflow/examples/android/\.idea/
 
-tensorflow/examples/android/assets/
-
 tensorflow/examples/android/gradle/wrapper/
 
 tensorflow/examples/android/gradleBuild/android-profile/
@@ -43,3 +41,19 @@ tensorflow/examples/android/gradlew
 tensorflow/examples/android/android\.iml
 
 third_party/toolchains/cpus/arm/
+
+tensorflow/examples/android/assets/thumbnails/
+
+tensorflow/examples/android/assets/coco_labels_list\.txt
+
+tensorflow/examples/android/assets/conv_actions_frozen\.pb
+
+tensorflow/examples/android/assets/conv_actions_labels\.txt
+
+tensorflow/examples/android/assets/hpile_graph\.pb
+
+*.pb
+
+tensorflow/examples/android/assets/imagenet_comp_graph_label_strings\.txt
+
+tensorflow/examples/android/assets/hpile_label\.txt
